@@ -15,4 +15,3 @@ lxml
 urllib3
 requests
 pickleshare
-pickle
